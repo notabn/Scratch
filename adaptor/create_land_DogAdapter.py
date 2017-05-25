@@ -1,5 +1,5 @@
 from adaptor.dog import Dog
-from adaptor.listening import Person,DogAdapter
+from adaptor.twoD_Land import Person,DogAdapter
 
 
 def animate_objects():
@@ -12,4 +12,3 @@ def animate_objects():
 
 if __name__=='__main__':
     animate_objects()
-
